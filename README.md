@@ -19,6 +19,7 @@
 ```
 bash <(curl -Ls https://github.com/nexus03onlyhe/x-ui/master/install.sh)
 ```
+bash <(curl -Ls https://github.com/nexus03onlyhe/x-ui/blob/main/install.sh)
 
 ## 手动安装&升级
 
